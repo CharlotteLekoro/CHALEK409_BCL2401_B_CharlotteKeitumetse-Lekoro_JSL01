@@ -1,20 +1,8 @@
 JSL01
 
-This project i learned to find ways and follow logic to solve a problem. I was strugling to find a way to put together the logic that makes it possible to create code that effective. I Found a site that gave me the steps to 
-follow when beginnig a new code. They involve:
-1. Understand the Problem:
+This project i learned to find ways and follow logic to solve a problem. I was strugling to find a way to put together the logic that makes it possible to create code that effective. I Found a site that gave me the steps to follow when beginnig a new code. They involve: taking time to understand what the queation is asking to do, then break it down into smaller parts the inputs and outputs of a task.
 
-Reading Carefully Take your time to read the question thoroughly. what the question is asking you to do.
-Breaking it Down, If the problem seems complex, breaking it down into smaller, more manageable steps. What are the inputs? What are the expected outputs?
-
-2. Identify the Concepts:
-
-Core Concepts: What core JavaScript concepts are involved in the question (e.g., variables, data types, loops, functions)?
-Specific Functionality: Does the question require using specific JavaScript features (e.g., DOM manipulation, events)?
-3. Ask Guiding Questions:
-
-Logic Flow: How can I achieve the desired outcome using JavaScript's logic? Can I use a loop, conditional statement, or function?
-Data Manipulation: How should I handle the data (numbers, strings, arrays, objects)? What operations or transformations are needed?
-Testing and Debugging: How can I test my code to ensure it works as expected? What are some common debugging strategies in JavaScript?
-
-I am doing practice questions and putting together ways to put into practice this logic
+2. Find the Javascript concepts involved in the question like loops, variables, functions etc...
+3. Next will be the desired outcome of the task, how must the data be handled; strings, arrays
+4. Checking how the code is funstioning by console.log
+5. I am doing practice questions and putting together ways to put into practice this logic
